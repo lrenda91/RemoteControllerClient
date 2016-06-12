@@ -1,0 +1,125 @@
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.config
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.exe
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.pdb
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\AddServerWindow.baml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ConnectWindow.baml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\InformationWindow.baml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\AddServerWindow.g.cs
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ConnectWindow.g.cs
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\InformationWindow.g.cs
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ClientGUI.g.cs
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.exe
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.pdb
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ClientGUI.baml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.g.resources
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ShowServerWindow.baml
+C:\Users\Audacia\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ShowServerWindow.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.config
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.exe
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.pdb
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\AddServerWindow.baml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ConnectWindow.baml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\InformationWindow.baml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ShowServerWindow.baml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\AddServerWindow.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ConnectWindow.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\InformationWindow.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ClientGUI.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ShowServerWindow.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.cache
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.lref
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ClientGUI.baml
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.g.resources
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.Properties.Resources.resources
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.exe
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.pdb
+C:\Users\AudaciaSRL\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\AddServerWindow.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ConnectWindow.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\InformationWindow.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ProgressWindow.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\SettingWindow.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ShowServerWindow.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\AddServerWindow.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ConnectWindow.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\InformationWindow.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ClientGUI.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ProgressWindow.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\SettingWindow.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ShowServerWindow.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.cache
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client_MarkupCompile.lref
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.exe.config
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.exe
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\Client.pdb
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\ClientGUI.baml
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.g.resources
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.Properties.Resources.resources
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.exe
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.pdb
+C:\Users\frazz\Google Drive\Codice\VisualStudio2013\WpfApplication1\WpfApplication1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\Client\bin\Debug\Client.exe.config
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client.exe
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client.pdb
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Luigi\Desktop\Client\obj\Debug\AddServerWindow.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\ConnectWindow.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\InformationWindow.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\ProgressWindow.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\SettingWindow.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\ShowServerWindow.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\App.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\AddServerWindow.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\ConnectWindow.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\InformationWindow.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\ClientGUI.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\ProgressWindow.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\SettingWindow.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\ShowServerWindow.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\App.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Luigi\Desktop\Client\bin\Debug\Client.exe
+C:\Users\Luigi\Desktop\Client\bin\Debug\Client.pdb
+C:\Users\Luigi\Desktop\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\MahApps.Metro.xml
+C:\Users\Luigi\Desktop\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luigi\Desktop\Client\obj\Debug\ClientGUI.baml
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client.g.resources
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Luigi\Desktop\Client\obj\Debug\Client.csproj.GenerateResource.Cache
